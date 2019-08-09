@@ -28,7 +28,7 @@ if(adj == "caring"){
 } else if(adj == "remarkable"){
   array.push(3)
   r.append(`<p>${adj}</p>`)
-  note.text("Yep, it's Jess! 👗")
+  note.text("Yes, that's Jess! 👗")
   $('.adjInput').val("");
 } else if(adj == "optimistic"){
   array.push(4)
@@ -38,7 +38,7 @@ if(adj == "caring"){
 } else if(adj == "lovely"){
   array.push(5)
   l.append(`<p>${adj}</p>`)
-  note.text("Yep, it's Jess! 👗")
+  note.text("Yes, that's Jess! 👗")
   $('.adjInput').val("");
 }else if(adj == "iconic"){
   array.push(6)

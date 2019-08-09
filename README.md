@@ -10,4 +10,4 @@ Type in words (or phrases) that start with each letter of your name. If you pick
 
 # Enjoy!
 
-![Home Page](./src/assets/homePage.jpg)
+![Home Page](./src/assets/homePage.png)
